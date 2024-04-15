@@ -26,6 +26,7 @@ Welcome to the Burger Hut Website repository! This project is a simple yet moder
 
 - HTML5
 - CSS3
+- Javascript
 
 ## Getting Started
 
